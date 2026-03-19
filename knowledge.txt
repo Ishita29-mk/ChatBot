@@ -1,0 +1,30 @@
+51. What is Cloud API Gateway?
+Ans: A Cloud API Gateway is a managed service in cloud platforms that handles API traffic, security, and routing without needing manual infrastructure setup.
+52. How does API Gateway work in cloud platforms?
+Ans: It receives client requests, processes them, and routes them to cloud services like serverless functions or microservices.
+53. What is a managed API Gateway?
+Ans: A managed API Gateway is provided by cloud providers, where they handle scaling, security, and maintenance automatically.
+54. What is serverless API Gateway?
+Ans: It works with serverless services like Lambda, where no server management is required.
+55. What is API Gateway in AWS?
+Ans: AWS API Gateway is a cloud service that helps create, publish, and manage APIs at scale.
+56. What is API Gateway in Azure?
+Ans: Azure API Management allows managing APIs, applying policies, and monitoring usage in cloud.
+57. What is API Gateway in Google Cloud?
+Ans: Google Cloud API Gateway manages APIs and connects them to backend services securely.
+58. What is multi-region API Gateway?
+Ans: It distributes API traffic across multiple regions for better availability and performance.
+59. What is edge-optimized API Gateway?
+Ans: It uses CDN to deliver APIs with low latency globally.
+60. What is regional API Gateway?
+Ans: It handles API requests within a specific cloud region.
+61. What is private API Gateway?
+Ans: It restricts API access within a private network like VPC.
+62. What is API Gateway endpoint type?
+Ans: Types include edge, regional, and private endpoints.
+63. What is VPC integration in API Gateway?
+Ans: It allows API Gateway to connect with services inside a Virtual Private Cloud.
+64. What is IAM in API Gateway?
+Ans: Identity and Access Management controls access permissions for APIs.
+65. What is API Gateway deployment stage in cloud?
+Ans: It represents environments like dev, test, or production.
