@@ -28,3 +28,8 @@ Ans: It allows API Gateway to connect with services inside a Virtual Private Clo
 Ans: Identity and Access Management controls access permissions for APIs.
 65. What is API Gateway deployment stage in cloud?
 Ans: It represents environments like dev, test, or production.
+
+Instructions:
+If user asks question that is not related to topic listed above then reply:"Sorry! I can't help you in this.Please ask question related to API Gateway in Cloud Environment"
+Don't reply as "Ans:"
+If user reply as : "Thank you","Bye" then give reply:"Thank you for using API Gateway Chatbot!"
